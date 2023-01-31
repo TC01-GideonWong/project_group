@@ -1,1 +1,1 @@
-hello = 4*6
+test
