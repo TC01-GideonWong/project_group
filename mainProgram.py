@@ -3,7 +3,7 @@ from overheads import*
 from cash_on_hand import*
 from profit_loss import*
 
-def main program():
+def main_program():
   '''
   This function has no parameters and will run all the other functions from the imported python files
   '''
